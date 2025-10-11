@@ -1,5 +1,9 @@
 # Świat Według Kiepskich — downloader
 
+```
+NOTE: The links are read. You you find working one please make a PR.
+```
+
 It downloads all episodes and seasons to a `./downloads` directory.
 
 ## Requirements
